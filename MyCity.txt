@@ -1,0 +1,26 @@
+# City saved on 2018/8/30@11:49:53
+
+# Window title
+Robots: Learning to program with Java
+# first street, first avenue, num streets, num avenues
+0 0 5 7
+# intersection size
+100
+
+ 
+   becker.robots.Thing 3 3
+   becker.robots.Thing 3 4
+   becker.robots.Thing 3 5
+   becker.robots.Thing 4 3
+   becker.robots.Thing 4 4
+   becker.robots.Thing 4 5
+   becker.robots.Thing 5 3
+   becker.robots.Thing 5 4
+   becker.robots.Thing 5 5
+   
+   becker.robots.Wall 1 1 EAST
+   becker.robots.Wall 1 1 SOUTH
+   becker.robots.Wall 1 1 WEST
+
+  
+     
